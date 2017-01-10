@@ -21,6 +21,7 @@ public class GenericAdActivity extends Activity {
 		mWebView.getSettings().setJavaScriptEnabled(true);
 		// mWebView.getSettings().setBuiltInZoomControls(true);
 		// mWebView.getSettings().setSupportZoom(true);
+		// mWebView.getSettings().setSupportZoom(true);
 		mWebView.setVerticalScrollbarOverlay(true);
 		mWebView.getSettings().setUseWideViewPort(true);
 		mWebView.getSettings().setLoadWithOverviewMode(true);
